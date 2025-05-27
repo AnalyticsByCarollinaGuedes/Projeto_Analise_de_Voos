@@ -28,3 +28,7 @@ Demonstrar habilidades com ferramentas de BI, criação de dashboards interativo
 ---
 
 📌 Projeto pessoal voltado para prática e desenvolvimento de portfólio na área de Análise de Dados.
+
+![image](https://github.com/user-attachments/assets/5982ff5a-adcc-47ac-be06-4b1c42c8a3ab)
+
+
